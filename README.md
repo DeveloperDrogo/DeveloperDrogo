@@ -24,7 +24,8 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperDrogo&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperDrogo&theme=dark&ring=FB9228&fire=FB9228&currStreakNum=FB9228&currStreakLabel=FB9228&hide_border=true)](https://git.io/streak-stats)
 
-![DeveloperDrogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperDrogo&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![DeveloperDrogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperDrogo&hide_border=true&show_icons=true&bg_color=151515&title_color=FB9228&icon_color=FB9228&text_bold=false&text_color=9e9e9e)
+
 
