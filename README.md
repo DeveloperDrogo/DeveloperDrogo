@@ -25,7 +25,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeveloperDrogo&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeveloperDrogo&theme=dark" alt="GitHub Streak" /></a>
 
 
 ![DeveloperDrogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperDrogo&hide_border=true&show_icons=true&bg_color=151515&title_color=FBA82C&icon_color=FBA82C&text_bold=false&text_color=9e9e9e)
